@@ -1,0 +1,1252 @@
+/* Responsive website design */
+
+/* for Mobile Section */
+
+
+
+
+
+/* For Ipads and Tablets Devices*/
+
+
+@media (max-width:1280px){
+    .last-section{
+        margin-top: -230px;
+        margin-left:70px;
+    }
+    
+    .last-section h3{
+        font-size: 47px;
+        width: 24vw;
+        margin-left: 80px;
+        padding-top: 70px;
+    }
+    
+    .last-section h4{
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 80px;
+        padding-top: 20px;
+    }
+    
+    .last-section button{
+        bottom:110px;
+        left:75px;
+    }
+
+    .last-section img{
+        margin-top:-200px;
+        margin-left:500px;
+        width: 35%;
+    }
+    footer{
+        display: flex;
+        margin-top: 20px;
+    }
+    
+    .first-h{
+        font-family: 'Inter', sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        color: rgb(153, 153, 153);
+        margin-left: 70px;
+    }
+    .second-h{
+        font-family: 'Inter', sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        color: rgb(153, 153, 153);
+        margin-left: 600px;
+    }
+}
+@media (max-width:1080px) {
+    .menu ul{
+        right:20px;
+    }
+
+    .brands-logos ul li img{
+        width:50px;
+        margin-left: 25px;
+    }
+    .home .home-last-text{
+        left:270px;
+    }
+    .last-brand-logos .last-text{
+        left:270px;   
+    }
+    .ml .links ul{
+        margin-left:14%;
+        font-size: 20px;
+    }
+    .ml .links ul li img{
+        width: 140px;
+    }
+    .ml .links ul li .inner-image img{
+        position: absolute;
+        bottom: 40px;
+        left:35px;
+        width:90px;
+    }
+
+.ml .links ul li h4{
+    left:20px;
+    top:10px;
+}
+    .generate .small-img {
+        position: relative;
+        bottom: 380px;
+        margin-left:600px;
+    }
+    .generate h4{
+        position: relative;
+        bottom:370px;
+        margin-left: 610px;
+    }
+    
+    .generate h1{
+        position: relative;
+        bottom:360px;
+        margin-left: 603px;
+        letter-spacing: 3px;
+        font-weight: 300;
+        font-size: 37px;
+    }
+    
+    .generate h3{
+        position: relative;
+        bottom:350px;
+        margin-left: 605px;
+        line-height: 30px;
+        font-weight: 100;
+        width: 37%;
+        font-size: 15px;
+    }
+
+    .ml .top-text h4{
+        margin-left: 56px;
+        font-size: 20px;
+        max-width:930px;
+        font-weight: 100;
+        margin-top: 32px;
+        font-family: 'Inter', sans-serif;
+    }
+    .collect .small-img {
+        position: relative;
+        bottom: 450px;
+    }
+    .collect h4{
+        position: relative;
+        bottom:430px;
+    }
+    
+    .collect h1{
+        position: relative;
+        bottom:420px;
+        letter-spacing: 3px;
+        font-weight: 300;
+        font-size: 47px;
+    }
+    
+    .collect h3{
+        position: relative;
+        bottom:400px;
+        line-height: 30px;
+        font-weight: 100;
+        width: 40%;
+        font-size: 14px;
+    }
+    
+    .collect .images{
+        margin-left: 47%;
+        border-radius: 28px;
+        cursor:grab;
+        width: 50%;
+        padding-top:7%;
+        padding-bottom:7%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .collect .images .main-image{
+        width: 90%;
+    }
+    #manage{
+        margin-top: 890px;
+    }
+    #automate{
+        margin-bottom: 180px;
+    }
+    #generate{
+        margin-top:-150px;
+    }    
+    .get-started{
+        position: relative;
+        margin-top: 770px;
+    }
+    .get-started h3{
+        font-size: 40px;
+        font-weight: 100;
+        display: inline-block;
+        margin-top: 100px;
+        margin-left: 36%;
+    }
+    .get-started button {
+        left:310px;
+    }
+    .get-started .first-hr{
+        margin-top:200px;
+    }
+    .get-started .second-hr{
+        margin-top:200px;
+    }
+    #manage{
+        margin-top: -200px;
+    }
+    #real-collect{
+        margin-top: -430px;
+    }
+    .last-section{
+        background-color: rgb(43, 43, 43);
+        width: 90%;
+        border-radius: 23px;
+        font-family: Aeonik;
+        margin-top: -230px;
+        margin-left:54px;
+    }
+    
+    .last-section h3{
+        font-size: 35px;
+        width: 24vw;
+        margin-left: 80px;
+        padding-top: 70px;
+    }
+    
+    .last-section h4{
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 80px;
+        padding-top: 20px;
+    }
+    
+    .last-section button{
+        bottom:90px;
+        left:75px;
+    }
+
+    .last-section img{
+        margin-top:-150px;
+        margin-left:400px;
+        width: 35%;
+    }
+    
+}
+
+@media (max-width:880px) {
+    .home-big-text {
+        font-size: 70px;
+    }
+
+    .home-small-text .hs-text {
+        width: 590px;
+        font-size: 20px;
+        line-height: 25px;
+        top: 480px;
+        left: 65px;
+    }
+    
+    .brands-logos ul {
+        grid-template-columns: auto auto auto auto;
+        row-gap: 50px;
+        column-gap: 0px;
+    }
+
+    .brands-logos {
+        width: 20px;
+        left: 17%;
+        top: 650px;
+    }
+
+    .brands-logos ul li .blend {
+        right: 8px;
+    }
+
+    .brands-logos ul li .square {
+        position: relative;
+        right: 14px;
+    }
+
+    .brands-logos ul li .toyota {
+        position: relative;
+        left: 10px;
+    }
+
+    .home .home-last-text {
+        font-size: 15px;
+        top: 1100px;
+        left: 140px;
+        text-align: center;
+    }
+    .last-brand-logos .last-text{
+        font-size: 15px;
+        top: 800px;
+        left: 140px;
+        text-align: center;
+    }
+    .home .home-last-text a {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .res-menu-buttons {
+        padding: 8px;
+    }
+
+    .ml .links ul{
+        margin-left:10%;
+        font-size: 17px;
+    }
+    .ml .links ul li img{
+        width: 120px;
+    }
+    .ml .links ul li .inner-image img{
+        position: absolute;
+        bottom: 40px;
+        left:35px;
+        width:70px;
+    }
+
+.ml .links ul li h4{
+    left:20px;
+    top:10px;
+}
+    .generate {
+        margin-top: 780px;
+    }
+
+    .generate .images {
+        position: absolute;
+        margin-left: 11%;
+        width: 80%;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        margin-top: 160px;
+    }
+
+    .generate .images .main-image {
+        width: 80%;
+    }
+
+
+    .generate .small-img {
+        position: relative;
+        bottom: 330px;
+        margin-left: 6%;
+    }
+
+    .generate .small-img img {
+        min-width: 100px;
+    }
+
+    .generate h4 {
+        font-size: 25px;
+        bottom: 320px;
+        margin-left: 6%;
+        font-weight: 100;
+    }
+
+    .generate h1 {
+        bottom: 300px;
+        margin-left: 6%;
+        display: inline-block;
+        letter-spacing: 3px;
+        font-weight: 300;
+        font-size: 60px;
+        width: 94%;
+    }
+
+    .generate hr {
+        position: relative;
+        bottom: 260px;
+        border-color: grey;
+        margin-left: 30px;
+        width: 90%;
+    }
+
+    .generate h3 {
+        bottom: 280px;
+        margin-left: 7%;
+        display: inline-block;
+        font-weight: 300;
+        font-size: 17px;
+        width: 84%;
+    }
+    .collect {
+        margin-top:500px;
+    }
+
+    .collect .images {
+        position: absolute;
+        margin-left: 11%;
+        width: 80%;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        margin-top: 80px;
+    }
+
+    .collect .images .main-image {
+        width: 80%;
+    }
+
+
+    .collect .small-img {
+        position: relative;
+        bottom: 330px;
+        margin-left: 6%;
+    }
+
+    .collect .small-img img {
+        min-width: 100px;
+    }
+
+    .collect h4 {
+        font-size: 25px;
+        bottom: 320px;
+        margin-left: 6%;
+        font-weight: 100;
+    }
+
+    .collect h1 {
+        bottom: 300px;
+        margin-left: 6%;
+        display: inline-block;
+        letter-spacing: 3px;
+        font-weight: 300;
+        font-size: 60px;
+        width: 94%;
+    }
+    .collect h3 {
+        bottom: 280px;
+        margin-left: 7%;
+        display: inline-block;
+        font-weight: 300;
+        font-size: 17px;
+        width: 84%;
+    }
+    #manage{
+        margin-top: 880px;
+    }
+    #automate{
+        margin-top:680px;
+    }
+    #evaluate{
+        margin-top: 780px;
+    }
+    #evaluate .images{
+        margin-top:130px;
+    }
+    .get-started button {
+        left:190px;
+    }
+
+    .get-started h3{
+        margin-left: 250px;
+    }
+    .get-started .first-hr{
+        margin-top:200px;
+    }
+    .get-started .second-hr{
+        margin-top:200px;
+    }
+    #generate{
+        margin-top: 1060px;
+    }
+    .last-section{
+        background-color: rgb(43, 43, 43);
+        width: 87%;
+        border-radius: 23px;
+        font-family: Aeonik;
+        margin-top: 340px;
+        margin-left:54px;
+    }
+    
+    .last-section h3{
+        font-size: 35px;
+        width: 28vw;
+        margin-left: 80px;
+        padding-top: 70px;
+    }
+    
+    .last-section h4{
+        font-size: 18px;
+        font-weight: 900;
+        margin-left: 80px;
+        padding-top: 10px;
+        width: 294px;
+    }
+    
+    .last-section button{
+        bottom:-20px;
+        left:75px;
+    }
+
+    .last-section img{
+        margin-top:-200px;
+        margin-left:440px;
+        width: 35%;
+    }
+    footer{
+        display: flex;
+        margin-top: 20px;
+    }
+    
+    .first-h{
+        font-family: 'Inter', sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        color: rgb(153, 153, 153);
+        margin-left: 50px;
+    }
+    .second-h{
+        font-family: 'Inter', sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        color: rgb(153, 153, 153);
+        margin-left: 200px;
+    }
+    .last-section h3{
+        font-size: 40px;
+        width: 34vw;
+        margin-left: 50px;
+        padding-top: 30px;
+    }
+    .last-section h4{
+        font-size: 20px;
+        font-weight: 900;
+        margin-left: 50px;
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+    .last-section img{
+        margin-top:-350px;
+        margin-left:280px;
+        width: 35%;
+    }
+    .last-section button{
+        bottom:9px;
+    }
+}
+
+@media(max-width:768px){
+    .last-section img{
+        margin-top:-350px;
+        margin-left:240px;
+        width: 35%;
+    }
+    #generate .images{
+        margin-top: 200px;
+    }
+    .first-h{
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        width: 90%;
+        margin-top: 20px;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .second-h{
+        width: 90%;
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        color: rgb(153, 153, 153);
+        margin-top: 20px;
+        margin-left: 20px;
+        text-align: center;
+    }
+}
+
+@media (max-width:758px) {
+    html {
+        overflow-x: hidden;
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    .logo-img {
+        top: 28px;
+        left: 20px;
+        width: 65px;
+    }
+
+    .res-menu {
+        right: 20px;
+        top: 28px;
+        display: flex;
+    }
+
+    ul {
+        display: none;
+    }
+
+    .home-big-text {
+        font-size: 35px;
+    }
+
+    .home-big-text .first-text {
+        top: 110px;
+        left: 20px;
+    }
+
+    .home-big-text .second-text {
+        top: 180px;
+        left: 20px;
+    }
+
+    .home-small-text .hs-text {
+        max-width: 90vw;
+        font-size: 16px;
+        line-height: 25px;
+        top: 280px;
+        left: 20px;
+    }
+
+    .home-buttons {
+        top: 420px;
+        /* justify-content: center; */
+    }
+
+    .home-buttons button {
+        min-width: 90vw;
+        height: 49px;
+        font-size: 14px;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .hb-1 {
+        margin-left: 30px;
+        border-radius: 25px;
+        border: solid 1px transparent;
+        margin-bottom: 20px;
+    }
+
+    .hb-2 {
+        margin-left: 30px;
+        border-radius: 25px;
+    }
+
+    .brands-logos {
+        width: 80px;
+        left:29%;
+        top: 450px;
+    }
+
+    .brands-logos ul {
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: auto auto auto auto;
+        row-gap: 50px;
+        column-gap: 0px;
+    }
+
+    .brands-logos ul li {
+        position: relative;
+        width: 68px;
+        left: 95px;
+        list-style: none;
+        display: inline-block;
+    }
+
+    .brands-logos ul li .microsoft {
+        position: relative;
+        left: -25px;
+        width: 85px;
+    }
+
+    .brands-logos ul li .brex {
+        position: relative;
+        right: 18px;
+        width: 55px;
+    }
+
+    .brands-logos ul li .etsy {
+        position: relative;
+        right: 5px;
+        width: 35px;
+    }
+
+    .brands-logos ul li .gm {
+        left: -10px;
+        bottom: 2px;
+        width: 27px;
+    }
+
+    .brands-logos ul li .flexport {
+        position: relative;
+        left: -14px;
+        width: 60px;
+    }
+
+    .brands-logos ul li .instacart {
+        position: relative;
+        bottom: 2px;
+        left: -27px;
+        width: 70px;
+    }
+
+    .brands-logos ul li .blend {
+        position: relative;
+        bottom: 2px;
+        right: 10px;
+        width: 45px;
+    }
+
+    .brands-logos ul li .openai {
+        position: relative;
+        right: 25px;
+        bottom: 5px;
+        width: 60px;
+    }
+
+    .brands-logos ul li .paypal {
+        position: relative;
+        left: -10px;
+        width: 57px;
+    }
+
+    .brands-logos ul li .sap {
+        position: relative;
+        left: -8px;
+        width: 35px;
+    }
+
+    .brands-logos ul li .square {
+        right: 19px;
+        position: relative;
+        width: 57px;
+    }
+
+    .brands-logos ul li .toyota {
+        width: 52px;
+        left: -20px;
+        bottom: 4px;
+    }
+
+    .brands-logos ul li .usaf {
+        position: relative;
+        bottom: 16px;
+        width: 40px;
+    }
+
+    .brands-logos ul li .usarmy {
+        position: relative;
+        bottom: 22px;
+        left: -6px;
+        width: 30px;
+    }
+
+    .home .home-last-text {
+        font-size: 15px;
+        top: 930px;
+        margin-left: -135px;
+    }
+
+    .last-brand-logos .last-text{
+        font-size: 15px;
+        top: 630px;
+        margin-left: -120px;
+        text-align: center;
+    }
+    
+    .last-brand-logos .last-text a {
+        display: inline-block;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .home .home-last-text a {
+        display: inline-block;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .res-menu-buttons {
+        display: none;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .res-menu-buttons {
+        margin-left: 1%;
+        margin-top: 2%;
+    }
+
+    /* 
+    .ml .links ul li .inner-image img{
+        display: inline;
+    }
+    .ml .links ul li .collectbtn .inner-image img{
+        position: relative; 
+         left:280px;
+    }
+    .generatebtn .inner-image img{
+        margin-right: 10px;
+    }
+    .collectbtn .inner-image img{
+        margin-right: 200px;
+    }
+
+    .ml .links ul li{
+        margin-top: 180px;
+    }
+
+    .ml .links ul li .generatebtn .inner-image img{
+        margin-left: 200px;
+    } */
+    .ml {
+        margin-top: 690px;
+        overflow: hidden;
+    }
+
+    .ml .links ul li img {
+        display: none;
+    }
+
+    .ml .links ul {
+        margin-left: 5%;
+    }
+
+    .ml .links ul li .inner-image img {
+        position: relative;
+        margin-right: 20px;
+        margin-left: 0px;
+        bottom: 220px;
+    }
+
+    .ml .links ul li .ml-link-heading {
+        position: relative;
+        margin-bottom: 120%;
+        margin-right: 50%;
+        margin-left: 10%;
+        display: none;
+    }
+
+    .ml .links ul li {
+        margin-top: 20px;
+    }
+
+    .ml .top-text h3 {
+        margin-left: 35px;
+    }
+
+    .ml .top-text h2 {
+        margin-left: 35px;
+        font-size: 35px;
+    }
+
+    .ml .top-text h4 {
+        margin-left: 36px;
+        font-size: 18px;
+        max-width: 315px;
+        font-weight: 100;
+        line-height: 30px;
+        margin-top: 32px;
+        font-family: 'Inter', sans-serif;
+    }
+
+    .generate {
+        margin-top: 440px;
+    }
+
+    .generate .images {
+        position: absolute;
+        margin-left: 10%;
+        width: 80vw;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        margin-top: 40%;
+    }
+
+    .generate .images .main-image {
+        max-width: 80vw;
+    }
+
+
+    .generate .small-img {
+        position: relative;
+        bottom: 330px;
+        margin-left: 6%;
+    }
+
+    .generate .small-img img {
+        min-width: 50px;
+    }
+
+    .generate h4 {
+        font-size: 25px;
+        bottom: 320px;
+        margin-left: 6%;
+        font-weight: 100;
+    }
+
+    .generate h1 {
+        bottom: 300px;
+        margin-left: 6%;
+        display: inline-block;
+        letter-spacing: 3px;
+        font-weight: 300;
+        font-size: 30px;
+        width: 94%;
+    }
+
+    .generate hr {
+        position: relative;
+        bottom: 240px;
+        border-color: grey;
+        margin-left: 38px;
+        width: 80%;
+    }
+
+    .generate h3 {
+        bottom: 280px;
+        margin-left: 7%;
+        display: inline-block;
+        font-weight: 300;
+        font-size: 17px;
+        width: 84%;
+    }
+    .collect {
+        margin-top: 400px;
+    }
+
+    .collect .images {
+        position: absolute;
+        margin-left: 10%;
+        width: 80vw;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        margin-top: 35%;
+    }
+
+    .collect .images .main-image {
+        max-width: 80vw;
+    }
+
+
+    .collect .small-img {
+        position: relative;
+        bottom: 330px;
+        margin-left: 6%;
+    }
+
+    .collect .small-img img {
+        min-width: 50px;
+    }
+
+    .collect h4 {
+        font-size: 25px;
+        bottom: 320px;
+        margin-left: 6%;
+        font-weight: 100;
+    }
+
+    .collect h1 {
+        bottom: 300px;
+        margin-left: 6%;
+        display: inline-block;
+        letter-spacing: 3px;
+        font-weight: 300;
+        font-size: 30px;
+        width: 94%;
+    }
+
+
+    .collect h3 {
+        bottom: 280px;
+        margin-left: 7%;
+        display: inline-block;
+        font-weight: 300;
+        font-size: 17px;
+        width: 84%;
+    }
+    #anoate1st .images{
+        margin-top: 210px;
+    }
+    #anoate2ndt{
+        margin-top: 580px;
+    }
+    #manage{
+        margin-top: 530px;
+    }
+    #automate{
+        margin-top:470px;
+    }
+    #automate .images{
+        margin-top: 210px;
+    }
+    #evaluate{
+        margin-top:500px;
+    }
+    #collect .images{
+        margin-top: 80px;
+    }
+    #generate{
+        margin-top: 480px;
+    }
+    #generate .images{
+        margin-top: 170px;
+    }
+    .get-started{
+        position: relative;
+        margin-top: 530px;
+    }
+    .get-started h3{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .get-started button {
+        min-width: 90vw;
+        height: 49px;
+        font-size: 14px;
+        left:-10px;
+    }
+    .get-started .hb-1{
+        position: absolute;
+        top:180px;
+    }
+    .get-started .hb-2{
+        position: absolute;
+        top:240px;
+    }
+    .last-section button{
+    min-width: 70vw;
+    height: 49px;
+    font-size: 14px;
+    }
+    .last-section{
+        background-color: rgb(43, 43, 43);
+        width: 90%;
+        border-radius: 23px;
+        font-family: Aeonik;
+        margin-top: 130px;
+        margin-left:20px;
+        padding-bottom: 270px;
+    }
+    
+    .last-section h3{
+        font-size: 35px;
+        width: 74vw;
+        margin-left: 30px;
+        padding-top: 30px;
+    }
+    
+    .last-section h4{
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 30px;
+        padding-top: 20px;
+    }
+    
+    .last-section button{
+        bottom:-20px;
+        left:43px;
+    }
+
+    .last-section img{
+        margin-bottom:-230px;
+        margin-left:70px;
+        width: 55%;
+    }
+    .last-brand-logos{
+        margin-top: -400px;
+    }
+    footer{
+        margin-top: 20px;
+        display: inline;
+    }
+    
+    .first-h{
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        width: 90%;
+        margin-top: 20px;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .second-h{
+        width: 90%;
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        color: rgb(153, 153, 153);
+        margin-top: 20px;
+        margin-left: 20px;
+        text-align: center;
+    }
+}
+
+@media (max-width:398px) {
+    .generate .images {
+        position: absolute;
+        margin-left: 10%;
+        width: 80vw;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        margin-top: 40%;
+    }
+
+    .collect .images{
+        margin-top: 45%;
+    }
+
+    #manage{
+        margin-top: 500px;
+    }    
+    #manage .images{
+        margin-top: 190px;
+    }
+    #automate{
+        margin-top:440px;
+    }
+    #anoate1st .images{
+        margin-top: 190px;
+    }
+    #anoate2ndt{
+        margin-top: 480px;
+    }
+    #evaluate{
+        margin-top: 470px;
+    }
+    #collect{
+        margin-top:390px;
+    }
+    #collect .images{
+        margin-top: 120px;
+    }
+    #generate{
+        margin-top: 480px;
+    }
+    #generate .images{
+        margin-top: 260px;
+    }
+    .generate .images .main-image {
+        max-width: 80vw;
+    }
+    .brands-logos ul {
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: auto auto auto auto;
+        row-gap: 50px;
+        column-gap: 0px;
+    }
+
+    .brands-logos ul li {
+        position: relative;
+        width: 68px;
+        left: 85px;
+        list-style: none;
+        display: inline-block;
+    }
+    .home .home-last-text {
+        font-size: 15px;
+        top: 930px;
+        margin-left: -135px;
+    }
+    .last-brand-logos .last-text{
+        font-size: 13px;
+        top: 930px;
+
+        width: 30vw;
+    }
+    .generate hr {
+        position: relative;
+        bottom: 230px;
+        border-color: grey;
+        margin-left: 38px;
+        width: 80%;
+    }
+    .get-started {
+        margin-top: 500px;
+    }
+    .get-started h3{
+        font-family: 'Inter', sans-serif;
+        font-size: 32px;
+        font-weight: 100;
+        display: inline-block;
+        margin-top: 100px;
+        margin-left: 0;
+    }
+    .get-started button{
+        left:-10px;
+    }
+    .get-started .hb-1{
+        position: absolute;
+        top:180px;
+    }
+    .get-started .hb-2{
+        position: absolute;
+        top:240px;
+    }
+    .last-section{
+        background-color: rgb(43, 43, 43);
+        width: 90%;
+        margin-top: 130px;
+        margin-left: 20px;
+    }
+    
+    .last-section h3{
+        font-size: 40px;
+        width: 70vw;
+        margin-left: 40px;
+        padding-top: 40px;
+    }
+    
+    .last-section h4{
+        font-size: 17px;
+        font-weight: 900;
+        margin-left: 40px;
+        padding-top: 20px;
+    }
+    
+    .last-section button{
+        font-family: 'Inter', sans-serif;
+        font-size: 16px;
+        background-color: transparent;
+        color: white;
+        font-weight: 400;
+        transition: 0.3s;
+        border-radius: 25px;
+        border: solid 1px transparent;
+        background-image: linear-gradient(90deg, #d1aad7, #c88bc4 25%, #7b8fdd 50%, #86bff2 74.87%, #bbdef2 99.88%), linear-gradient(90deg, #d1aad7, #c88bc4 25%, #7b8fdd 50%, #86bff2 74.87%, #bbdef2 99.88%);
+        background-origin: border-box;
+        background-clip: content-box, border-box;
+        box-shadow: 2px 1000px 1px black inset;
+        margin-left: -10px;
+        margin-top: 10px;
+    }
+    
+    .last-section img{
+        margin-top:70px;
+        margin-left:48px;
+        width: 70%;
+    }
+    .last-brand-logos{
+        margin-top: -400px;
+    }
+    
+    .last-brand-logos .last-text{
+        font-size: 15px;
+        top: 930px;
+        margin-left: -35px;
+    }
+    footer .first-h{
+        text-align: center;
+    }
+    footer .second-h{
+        text-align: center;
+    }
+}
+
